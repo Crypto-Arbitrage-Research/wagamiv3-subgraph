@@ -38,7 +38,7 @@
   "mainnet": {
     "Factory": {
       "address": "0xB9a14EE1cd3417f3AcC988F61650895151abde24",
-      "startBlock": 17369621
+      "startBlock": 18240112
     }
   },
   "matic": {
