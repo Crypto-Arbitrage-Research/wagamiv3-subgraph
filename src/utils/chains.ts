@@ -231,7 +231,7 @@ export function getSubgraphConfig(): SubgraphConfig {
     }
   } else if (selectedNetwork == MAINNET_NETWORK_NAME) {
     return {
-      factoryAddress: '0x1F98431c8aD98523631AE4a59f267346ea31F984',
+      factoryAddress: '0xB9a14EE1cd3417f3AcC988F61650895151abde24',
       stablecoinWrappedNativePoolAddress: '0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8', // USDC-WETH 0.3% pool
       stablecoinIsToken0: true,
       wrappedNativeAddress: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', // WETH
